@@ -1,8 +1,8 @@
-Fraud Detection System Project Documentation
+# Fraud Detection System Project Documentation
 Introduction
 I developed a fraud detection system aimed at identifying fraudulent credit card transactions using a publicly available Credit Card Fraud Dataset. The project involved data preprocessing, model training, evaluation, and creating a simple testing interface to demonstrate the system’s functionality.
 
-1. Data Preprocessing
+Data Preprocessing
 In the initial phase of the project, I focused on preparing the dataset for effective model training. The dataset was highly imbalanced, with fraudulent transactions representing a very small fraction of the total data. To address this, I applied  undersample , which helped in balancing the dataset.
 Additionally, I performed feature engineering to enhance model performance. This included normalizing transaction amounts.
 
